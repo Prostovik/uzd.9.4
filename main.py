@@ -1,0 +1,5 @@
+#Programma skaita 2 pakapes skaitlu, kuru ievada lietotajs. (tas bija jabut 9.4 uzd)
+s = int(input("Īevadi skaitli: "))
+p = (2)
+data = pow(s, p)
+print(data)
